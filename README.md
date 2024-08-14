@@ -1,7 +1,8 @@
 # Beta Bank Customer Churn Prediction
+![Customer Churn](churn.png)
 ## Project Overview
 Beta Bank is facing a challenge with customer retention, as customers are leaving the bank at a steady rate. It has been determined that retaining existing customers is more cost-effective than acquiring new ones. The goal of this project is to build a predictive model that can accurately forecast whether a customer will leave the bank in the near future, enabling proactive measures to be taken to retain these customers.
-
+![Bank](bank.png)
 ## Objective
 - Primary Goal: Develop a machine learning model to predict customer churn with the highest possible F1 score.
 - Secondary Goal: Measure the AUC-ROC metric and compare it with the F1 score to evaluate the model’s performance.
